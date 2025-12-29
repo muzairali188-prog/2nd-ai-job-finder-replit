@@ -1,0 +1,7 @@
+{
+  "name": "2 working AI Job Finder ",
+  "description": "A mobile-first job search application that uses Gemini AI to discover real-time job listings and provide career insights like salary estimates and interview prep.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
